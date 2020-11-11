@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sopa de lletres</string>
+    <string name="sopa_de_lletres">Sopa de lletres</string>
+    <string name="jugar">Jugar</string>
+    <string name="puntuacions">Puntuacions</string>
+    <string name="instruccions">Instruccions</string>
+    <string name="instruccions_description_title">Descripció</string>
+    <string name="instruccions_description_content">
+        El joc consisteix en un taulell ple de lletres \ndistribuides en files i columnes.
+        Algunes de les \nfiles, columnes o diagonals que formen les \nlletres del taulell poden arribar a formar \nparaules.
+        Aquestes paraules poden ser \nllegides tant del dret com del revés.
+    </string>
+    <string name="instruccions_objective_title">Objectiu</string>
+    <string name="instruccions_objective_content">
+        L\'objectiu del joc és trobar el major número de \nparaules en la menor quantitat de temps \npossible.
+    </string>
+    <string name="instruccions_scores_title">Puntuacions</string>
+    <string name="instruccions_scores_content">
+        Per cada paraula es guanyen 100 punts.
+        \nPer cada segon es perd 1 punt.
+    </string>
+    <string name="afterGameScore_label">Puntuació final</string>
+    <string name="afterGameScore_Congrats">Enhorabona!</string>
+    <string name="afterGameScore_finalScore">La teva puntuació és:</string>
+    <string name="afterGameScore_button_backToMainMenu">Menú principal</string>
+    <string name="m17">m17</string>
+    <string name="seleccio">seleccio</string>
+    <string name="textview">TextView</string>
+    <string name="permissionsContactsDialog">L\'aplicació no té permissos per accedir als contactes. Vols otorgar-li ara?</string>
+
+
+</resources>
